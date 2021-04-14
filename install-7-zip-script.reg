@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\7-zip-script]
+@=""
+
+[HKEY_CLASSES_ROOT\7-zip-script\shell]
+
+[HKEY_CLASSES_ROOT\7-zip-script\shell\open]
+
+[HKEY_CLASSES_ROOT\7-zip-script\shell\open\command]
+@="\"C:\\Windows\\System32\\WScript.exe\" \"c:\\App\\7-zip-script\\7-zip-script.js\" \"%1\""
+
+[HKEY_CLASSES_ROOT\.zip]
+@="7-zip-script"

@@ -1,0 +1,72 @@
+Windows Registry Editor Version 5.00
+
+;;;;;;;;
+; ProgId
+;;;;;;;;
+
+[HKEY_CLASSES_ROOT\expand-with-7zip.js]
+@="Expand with 7zip"
+
+[HKEY_CLASSES_ROOT\expand-with-7zip.js\shell]
+
+[HKEY_CLASSES_ROOT\expand-with-7zip.js\shell\open]
+
+[HKEY_CLASSES_ROOT\expand-with-7zip.js\shell\open\command]
+@="\"C:\\Windows\\System32\\wscript.exe\" \"C:\\App\\expand-with-7zip\\expand-with-7zip.js\" \"%1\""
+
+[HKEY_CLASSES_ROOT\expand-with-7zip.js\DefaultIcon]
+@="\"C:\\App\\7-zip-script\\Personal-Use.ico\""
+
+;;;;;;;;
+; zip
+;;;;;;;;
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.zip]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.zip\OpenWithProgids]
+"expand-with-7zip.js"=hex(0):
+
+;;;;;;;;
+; 7z
+;;;;;;;;
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.7z]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.7z\OpenWithProgids]
+"expand-with-7zip.js"=hex(0):
+
+;;;;;;;;
+; rar
+;;;;;;;;
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rar]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rar\OpenWithProgids]
+"expand-with-7zip.js"=hex(0):
+
+;;;;;;;;
+; xz
+;;;;;;;;
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xz]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.xz\OpenWithProgids]
+"expand-with-7zip.js"=hex(0):
+
+;;;;;;;;
+; bz2
+;;;;;;;;
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.bz2]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.bz2\OpenWithProgids]
+"expand-with-7zip.js"=hex(0):
+
+;;;;;;;;
+; gz
+;;;;;;;;
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.gz]
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.gz\OpenWithProgids]
+"expand-with-7zip.js"=hex(0):

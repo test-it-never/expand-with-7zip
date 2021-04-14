@@ -1,0 +1,17 @@
+[1] 説明
+
+7zipで解凍して、explorerで展開先フォルダを開くだけのスクリプト。
+
+[2] インストール方法
+
+適当に展開して、
+1. expand-with-7zip.jsのprogとdistを編集
+2. install-expand-with-7zip.regの[HKEY_CLASSES_ROOT\open-with-7zip.js\shell\open\command]内の7-zip-script.jsのパスを編集
+3. install.batを実行
+
+[3] アイコン
+アイコンを特定を使いたい場合、Personal-Use.icoという名のicoファイルを同じディレクトリに置くと動く。
+
+[4] 技術的メモ
+
+win8以降 ftype, assoc は死んだらしい。厳密には全く新しい拡張子なら動くらしいが、既存の拡張子をいじるのは成功しない。
