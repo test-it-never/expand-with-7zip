@@ -8,7 +8,7 @@ var dist = "%temp%\\"
 var args = WScript.Arguments;
 var shell = new ActiveXObject("WScript.shell");
 var fso = new ActiveXObject('Scripting.FileSystemObject');
-WScript.Echo(dist);
+// WScript.Echo(dist);
 var s = args(0);
 var b = fso.GetBaseName(s);
 var w = dist + b;

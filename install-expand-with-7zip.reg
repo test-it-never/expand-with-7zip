@@ -163,74 +163,74 @@ Windows Registry Editor Version 5.00
 
 ;;;; Minor compession formats are omitted below
 
-;;;;;;;;
-; wim
-;;;;;;;;
+; ;;;;;;;;
+; ; wim
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wim]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wim]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wim\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wim\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; swm
-;;;;;;;;
+; ;;;;;;;;
+; ; swm
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.swm]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.swm]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wim\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.wim\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; arj
-;;;;;;;;
+; ;;;;;;;;
+; ; arj
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.arj]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.arj]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.arj\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.arj\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; z
-;;;;;;;;
+; ;;;;;;;;
+; ; z
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.z]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.z]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.z\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.z\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; taz
-;;;;;;;;
+; ;;;;;;;;
+; ; taz
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.taz]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.taz]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.taz\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.taz\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; cpio
-;;;;;;;;
+; ;;;;;;;;
+; ; cpio
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cpio]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cpio]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cpioz\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.cpioz\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; rpm
-;;;;;;;;
+; ;;;;;;;;
+; ; rpm
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rpm]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rpm]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rpm\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.rpm\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
 
-;;;;;;;;
-; deb
-;;;;;;;;
+; ;;;;;;;;
+; ; deb
+; ;;;;;;;;
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.deb]
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.deb]
 
-[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.deb\OpenWithProgids]
-"expand-with-7zip.js"=hex(0):
+; [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.deb\OpenWithProgids]
+; "expand-with-7zip.js"=hex(0):
